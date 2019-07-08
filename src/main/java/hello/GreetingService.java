@@ -20,7 +20,7 @@ public class GreetingService {
         System.out.println("1");
     }
 
-    public class GreetingService {
+    public class GreetingServiceInner {
         public void method1(int myInt) {
 
         }
